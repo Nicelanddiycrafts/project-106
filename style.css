@@ -1,0 +1,28 @@
+#header_div{
+    background-color:#E1DBD6;
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+#copy_right_footer{
+    background-color:  #E2E2E2 ;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+button{
+    margin-top: 150px;
+    background-color: #E2E2E2;
+}
+
+#header{
+    color: Black ;
+}
+
+body{
+    color: black;
+    background-color: #D1D1D1;
+
+}
